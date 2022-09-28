@@ -1,8 +1,13 @@
 # MDS-Multidimensional-Scaling
 
 - The multidimensional scaling approach minimizes the square difference of the pairwise distances between all the training data between the projected, lower dimensional, and original feature higher space.
-
-"#### Metric Multidimensional Scaling\n",
+- Metric Multidimensional Scaling :
+- 
+{
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+   "#### Metric Multidimensional Scaling\n",
     "\n",
     "A generalization of classical multidimensional scaling with a variety of metrics and a loss function optimization.\n",
     "\n",
@@ -21,4 +26,5 @@
     "* dimensionality reduction is performed such that the error in the sample pairwise distance is minimized\n",
     "\n",
     "* there is a variant known as Nonmetric Multidimensional Scaling for ordinal features (categorical with ordering).\n",
-    "\n",
+    "\n"]
+}
